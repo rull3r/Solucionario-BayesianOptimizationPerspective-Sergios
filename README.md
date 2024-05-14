@@ -11,6 +11,8 @@ El solucionario está organizado en capítulos y secciones. A continuación se m
 
 - :green_book: 2) Probability and stochastic processes
   - :pencil: [Ejercicio 1](link_ejercicio_1)
+  - :pencil: [Ejercicio 2](link_ejercicio_2)
+  - :pencil: [Ejercicio 3](link_ejercicio_3)
 
 ¡No dudes en explorar los diferentes capítulos y secciones para encontrar las soluciones que necesitas! :bulb:
 
